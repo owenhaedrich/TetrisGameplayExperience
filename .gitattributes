@@ -148,9 +148,6 @@ Packages/packages-lock.json linguist-generated
 *.apk                   lfs
 *.exe                   lfs
 
-# Documents
-*.pdf                   lfs
-
 # ETC
 *.a                     lfs
 *.reason                lfs
